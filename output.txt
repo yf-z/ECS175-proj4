@@ -1,0 +1,14 @@
+the number of the curve is: 2
+
+the id of the curve is: 1
+
+the vertex of the curve is: 
+(89,482) --> (235,652) --> (301,466) --> (500,623) --> (625,466) --> end
+
+
+the id of the curve is: 2
+
+the vertex of the curve is: 
+(103,174) --> (276,383) --> (351,184) --> (532,405) --> (620,158) --> end
+
+
